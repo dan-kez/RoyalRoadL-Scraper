@@ -1,3 +1,5 @@
+> NOTE: Any use of this project is solely at the end user's discretion. The author(s) claim no responsibility for end user's actions with this tool.
+
 # RoyalRoadL-Scraper
 Stand up a lightweight server to serve pdf renderings of chapters / novels from royalroadl.com.
 >NOTE: this is just a basic screen-scraper. If there are significant changes to RRL's DOM then this will break. Should be pretty simple to fix though.
